@@ -2,6 +2,8 @@
 
 Streamdeck-CoinmarketcapTicker is a .NET 9 application that displays real-time cryptocurrency prices from CoinMarketCap directly on your Elgato Stream Deck. This tool is ideal for streamers, traders, and enthusiasts who want to monitor crypto prices at a glance.
 
+**The plugin works on both Windows and Mac OS.**
+
 ## Features
 
 - Real-time price updates for selected cryptocurrencies

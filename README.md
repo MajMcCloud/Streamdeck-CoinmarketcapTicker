@@ -4,6 +4,8 @@ Streamdeck-CoinmarketcapTicker is a .NET 9 application that displays real-time c
 
 **The plugin works on both Windows and Mac OS.**
 
+![Preview](Assets/1-preview.png)
+
 ## Features
 
 - Real-time price updates for selected cryptocurrencies

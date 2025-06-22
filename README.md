@@ -19,7 +19,6 @@ Streamdeck-CoinmarketcapTicker is a .NET 9 application that displays real-time c
 
 - .NET 9 SDK or runtime
 - Elgato Stream Deck device
-- CoinMarketCap API key
 
 ## Installation
 

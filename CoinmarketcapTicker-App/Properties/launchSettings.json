@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "YoutubeTicker": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
